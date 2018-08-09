@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "what's Anaconda ?"
+title:  "what's Anaconda?"
 date:   2018-08-01 13:03:00 +0100
 categories: jekyll update
 ---
