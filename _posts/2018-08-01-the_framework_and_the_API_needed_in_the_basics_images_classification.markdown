@@ -35,6 +35,6 @@ TensorFlow was developed by the Google Brain team for internal Google use. It wa
 
 ![Matplotlib][logoM]
 
-[logoM]: ttps://chabbiyosr.github.io/images/post1/Mpl.png
+[logoM]: https://chabbiyosr.github.io/images/post1/Mpl.png
 
 #### Matplotlib is a plotting library for the Python programming language and its numerical mathematics extension NumPy. It provides an object-oriented API for embedding plots into applications using general-purpose GUI toolkits like Tkinter, wxPython, Qt, or GTK+. There is also a procedural "pylab" interface based on a state machine (like OpenGL), designed to closely resemble that of MATLAB, though its use is discouraged.[2] SciPy makes use of matplotlib.
