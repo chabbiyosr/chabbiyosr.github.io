@@ -1,15 +1,15 @@
 ---
 layout: post
-title:  "les bibliothéques utilisées dans notre environement de travail"
-date:   2018-08-01 10:48:37 +0100
+title:  "the framework and the API needed in the basics images classification"
+date:   2018-08-01 07:48:37 +0100
 categories: jekyll update
 ---
  
 # **TensorFlow**
 
- ![Tenserflow]:[logoT]
+ ![Tenserflow][logoT]
 
-[logoT]: https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/TensorFlowLogo.svg/348px-TensorFlowLogo.svg.png
+[logoT]: https://chabbiyosr.github.io/images/post1/ai.png
 
 #### TensorFlow is an open-source software library for dataflow programming across a range of tasks. It is a symbolic math library, and is also used for machine learning applications such as neural networks. It is used for both research and production at Google.
 TensorFlow was developed by the Google Brain team for internal Google use. It was released under the Apache 2.0 open source license on November 9, 2015.
