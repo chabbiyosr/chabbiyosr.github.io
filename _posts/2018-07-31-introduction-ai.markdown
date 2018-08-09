@@ -12,7 +12,7 @@ categories: jekyll update
 
 ![AI][logo1]
 
-[logo1]: https://geneticliteracyproject.org/wp-content/uploads/2018/06/6-7-2018-AivsHuman-copy.jpg 
+[logo1]: https://chabbiyosr.github.io/images/post3/ai.jpg 
 
 
 
@@ -43,7 +43,7 @@ One of the leading languages used for developing AI Projects is Python which is 
 
 #### ![ML][logo2]
 
-[logo2]: https://cdn-images-1.medium.com/max/1024/1*3CXBOKNql4qS-lRyHT3pqw.png
+[logo2]: https://chabbiyosr.github.io/images/post3/ML.png
 
 
 
@@ -56,7 +56,7 @@ One of the leading languages used for developing AI Projects is Python which is 
 
 ![DL][logo3]
 
-[logo3]:https://cdn-images-1.medium.com/max/1344/0*5BKVjZL7eojyU1wH.jpg
+[logo3]: https://chabbiyosr.github.io/images/post3/DL.jpg
 
 Another algorithmic approach from the early machine-learning crowd, Artificial Neural Networks, came and mostly went over the decades. Neural Networks are inspired by our understanding of the biology of our brains – all those interconnections between the neurons. But, unlike a biological brain where any neuron can connect to any other neuron within a certain physical distance, these artificial neural networks have discrete layers, connections, and directions of data propagation.
 
@@ -64,7 +64,7 @@ Another algorithmic approach from the early machine-learning crowd, Artificial N
 
 ![DL][logo4]
 
-[logo4]: http://bisintek.com/wp-content/uploads/2017/12/AI10.png  
+[logo4]: https://chabbiyosr.github.io/images/post3/AI.png  
 
  Artificial Intelligence (AI) and Machine Learning (ML) are two very hot buzzwords right now, and often seem to be used interchangeably. They are not quite the same thing, but the perception that they are can sometimes lead to some confusion
 They are not quite the same thing, but the perception that they are can sometimes lead to some confusion. So I thought it would be worth writing a piece to explain the difference.

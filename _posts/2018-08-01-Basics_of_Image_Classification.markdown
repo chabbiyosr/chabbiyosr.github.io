@@ -9,7 +9,7 @@ categories: jekyll update
 
 ![Intro] [logoc]
 
-[logoc]: https://gisgeography.com/wp-content/uploads/2014/07/image-classification-techniques-remote-sensing-678x322.jpg
+[logoc]: ttps://chabbiyosr.github.io/images/post2/techniques.jpg
 
 
 ### Image classification has become one of the key pilot use-cases for demonstrating machine learning. In the previous article, I introduced machine learning, IBM PowerAI, compared GPU and CPU performances while running image classification programs on the IBM Power platform. In this article, let’s take a look at how to check the output at any inner layer of a neural network and train your own model by working with Nvidia DIGITS.
@@ -20,7 +20,7 @@ categories: jekyll update
 # ***Observing hidden layer parameters***
 ![AI][logo1]
 
-[logo1]: https://blog.webkid.io/content/images/old/neural-networks-in-javascript/nn_blog.png 
+[logo1]: ttps://chabbiyosr.github.io/images/post2/nn_blog.png 
 
 #### It wasn’t till the 1980s that researchers discovered adding more layers to a neural network vastly improved its performance. Such neural networks with several hidden layers are common today in several use cases including image classification. Contrary to what the name indicates, it is possible to observe relevant parameters in the hidden layers.
 
@@ -30,9 +30,7 @@ categories: jekyll update
 
 # **Step - 1 : Convolution**
 # **Step - 2 : Pooling**
-
 # **Step - 3 : Flattening**
-
 # **Step - 4 : Full connection**
 
 
