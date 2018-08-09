@@ -7,7 +7,7 @@ categories: jekyll update
 
 ## **Introduction**
 
-![Intro] [logoc]
+![Intro][logoc]
 
 [logoc]: https://chabbiyosr.github.io/images/post2/techniques.jpg
 
