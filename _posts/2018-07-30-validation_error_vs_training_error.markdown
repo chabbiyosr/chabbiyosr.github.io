@@ -28,7 +28,7 @@ categories: jekyll update
 **loss and accurcy errors**
 
 
-![Error2] [logoE2]
+![Error2][logoE2]
 
 [logoE2]: https://chabbiyosr.github.io/images/post4/tensorboard.png
 
