@@ -25,19 +25,30 @@ categories: jekyll update
 
 
 
-**loss and accurcy errors**
+**loss and accuracy errors**
 
 
 ![Error2][logoE2]
 
 [logoE2]: https://chabbiyosr.github.io/images/post4/tensorboard.png
 
+***loss***
 
-#### The lower the loss, the better a model (unless the model has over-fitted to the training data). The loss is calculated on training and validation and its interperation is how well the model is doing for these two sets. Unlike accuracy, loss is not a percentage. It is a summation of the errors made for each example in training or validation sets.
+![loss][logoloss]
+
+[logoloss]: https://chabbiyosr.github.io/images/post4/loss.png
+
+ The lower the loss, the better a model (unless the model has over-fitted to the training data). The loss is calculated on training and validation and its interperation is how well the model is doing for these two sets. Unlike accuracy, loss is not a percentage. It is a summation of the errors made for each example in training or validation sets.
 
 In the case of neural networks, the loss is usually negative log-likelihood and residual sum of squares for classification and regression respectively. Then naturally, the main objective in a learning model is to reduce (minimize) the loss function's value with respect to the model's parameters by changing the weight vector values through different optimization methods, such as backpropagation in neural networks.
 
 Loss value implies how well or poorly a certain model behaves after each iteration of optimization. Ideally, one would expect the reduction of loss after each, or several, iteration(s).
+
+***accuracy***
+
+![accuracy][logoacc]
+
+[logoacc]: https://chabbiyosr.github.io/images/post4/accuracy.png
 
 The accuracy of a model is usually determined after the model parameters are learned and fixed and no learning is taking place. Then the test samples are fed to the model and the number of mistakes (zero-one loss) the model makes are recorded, after comparison to the true targets. Then the percentage of misclassification is calculated.
 
