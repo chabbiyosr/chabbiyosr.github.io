@@ -29,7 +29,7 @@ categories: jekyll update
 
 ![Error2][logoE2]
 
-[logoE2]:https://chabbiyosr.github.io/images/post4/tensorboard.png
+[logoE2]: https://chabbiyosr.github.io/images/post4/tensorboard.png
 
 
 #### The lower the loss, the better a model (unless the model has over-fitted to the training data). The loss is calculated on training and validation and its interperation is how well the model is doing for these two sets. Unlike accuracy, loss is not a percentage. It is a summation of the errors made for each example in training or validation sets.
